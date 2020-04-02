@@ -10,6 +10,7 @@ namespace app_me_ton_mjino
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
