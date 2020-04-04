@@ -11,7 +11,7 @@ namespace app_me_ton_mjino
         static void Main(string[] args)
         {
 
-            // eimai poli gkei
+            // eimai poli gkei mp u 
             Console.ReadKey();
         }
     }
